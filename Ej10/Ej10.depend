@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535698368 source:c:\users\gonza\desktop\programacion i\ej10\main.c
+	<stdio.h>
+	<stdlib.h>
+
